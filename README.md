@@ -22,4 +22,5 @@ Aplicación web con temática de marketplace, donde un determinado usuario una v
 <img src="https://github.com/erlisrivas/proyecto-react/blob/master/marketplace.png" width="400">
 
 
-## [Ver aqui](https://proyecto-react-nine.vercel.app/)
+
+

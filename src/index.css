@@ -1,0 +1,30 @@
+.titleCat{
+    color: #b279cf;
+    font-weight: 900;
+}
+.nombreP{
+    color: #b279cf;
+    font-style: italic;
+}
+.nombreCat{
+    color: #a412ec;
+    font-style: italic;
+}
+
+   
+
+@media (max-width: 800px){
+    .cardInfo{
+        display: flex;
+        flex-direction: row;
+        justify-content: start;
+        align-items: center;
+        
+    }
+    .logoInfo{
+        margin-right: 4px;
+    }
+    .infocard{
+        margin-left: 6px;
+    }
+}
